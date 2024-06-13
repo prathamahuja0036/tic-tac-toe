@@ -1,0 +1,13 @@
+label{
+    display: block;
+    margin-bottom: 5px;
+}
+
+input{
+    margin-bottom: 10px;
+}
+
+.errormessages{
+    color: red;
+    margin-top: 5px;
+}
